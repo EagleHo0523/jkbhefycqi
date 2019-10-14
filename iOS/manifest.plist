@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://eagleho0523.github.io/jkbhefycqi/iOS/TTFONE_20190807_1443-signed.ipa</string>
+                    <string>https://eagleho0523.github.io/jkbhefycqi/iOS/ttfone_4.0.11_4013-resign.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>
                 <string>com.ddmx.ttfone.trade</string>
                 <key>bundle-version</key>
-                <string>1.4.43</string>
+                <string>4.0.11</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
